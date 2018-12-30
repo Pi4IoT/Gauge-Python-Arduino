@@ -38,8 +38,8 @@ class ControlArduino(QThread):
         
     def run(self):
         try:
-            self.serArduino = serial.Serial('COM6', 115200, timeout=0) #Windows PC
-            #ui.serArduino = serial.Serial("/dev/ttyACM0",115200,timeout=1)       #Linux PC - Raspberry
+            #self.serArduino = serial.Serial('COM6', 115200, timeout=0) #Windows PC
+            ui.serArduino = serial.Serial("/dev/ttyACM0",115200,timeout=0)       #Linux PC - Raspberry
             self.noRS232_UNO = 1
             self.testRS232.emit( 1) 
         except:
