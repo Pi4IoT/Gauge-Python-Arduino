@@ -18,6 +18,9 @@ Read out the value of the potentiometer from Arduino Port A0 over the RS232 to t
 ![RS232](https://user-images.githubusercontent.com/36192933/48973945-efbaa480-f04b-11e8-8987-30d699c34161.jpg)
 </br></br>
 Download the Arduino program and upload this example to your Arduino UNO.</br>
+
+![arduino](https://user-images.githubusercontent.com/36192933/50551926-6f5e1380-0c89-11e9-93f1-93ce2f264f21.jpg)
+
 Then download the folder Program and unzip it on your computer.</br>
 Check the com-port number from Arduino. You can start the main.py program for the first test.</br>
 If you want to edit the program, I recommended to install the IDE Eric first.</br>
