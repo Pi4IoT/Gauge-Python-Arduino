@@ -1,9 +1,9 @@
 
-<h3>Advanced Python example of Graphical Applications (GUI)</h3></br>
+<h2>Advanced Python example of Graphical Applications (GUI)</h2></br>
 
 <hr>
 
-<h5>Gauge-Python-Arduino</h5>
+<h3>Gauge-Python-Arduino</h3>
 
 </br>
 
