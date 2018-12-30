@@ -14,6 +14,15 @@ Shows a gauge example to display the analog value at Arduino from a potentiomete
 - by using Eric IDE</br></br>
 
 Read out the value of the potentiometer from Arduino Port A0 over the RS232 to the Python Program.
-<br /><br />
+</br>
 ![RS232](https://user-images.githubusercontent.com/36192933/48973945-efbaa480-f04b-11e8-8987-30d699c34161.jpg)
-<br /><br />
+</br></br>
+Download the Arduino program and upload this example to your Arduino UNO.</br>
+Then download the folder Program and unzip it on your computer.</br>
+Check the com-port number from Arduino. You can start the main.py program for the first test.</br>
+If you want to edit the program, I recommended to install the IDE Eric first.</br>
+How to do this, see this video:</br>
+</br>
+https://youtu.be/s81_WnM1oJA</br>
+and</br>
+https://youtu.be/VvGfU5zJHiQ</br></br>
