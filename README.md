@@ -1,6 +1,7 @@
 
 <h3>Advanced Python example of Graphical Applications (GUI)</h3></br>
----
+
+<hr>
 
 # Gauge-Python-Arduino</br>
 
