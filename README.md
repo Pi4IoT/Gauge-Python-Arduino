@@ -3,7 +3,9 @@
 
 <hr>
 
-# Gauge-Python-Arduino</br>
+<h5>Gauge-Python-Arduino</h5>
+
+</br>
 
 Shows a gauge example to display the analog value at Arduino from a potentiometer.</br></br>
 - Serial Port with Arduino</br>
