@@ -5,7 +5,7 @@
 
 </br>
 Video on YouTube --> <a href="https://youtu.be/rG0vzTk5xPQ" target="_blank">
- <img src="https://user-images.githubusercontent.com/36192933/50552764-8b1de580-0c9a-11e9-8641-c260b38546ab.jpg" alt="IMAGE ALT TEXT HERE" width="60" border="10" />
+ <img src="https://user-images.githubusercontent.com/36192933/50552764-8b1de580-0c9a-11e9-8641-c260b38546ab.jpg" alt="IMAGE ALT TEXT HERE"/>
 </a>
 
 
